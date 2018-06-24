@@ -1,0 +1,19 @@
+{
+  "name": "node-rest",
+  "version": "1.0.0",
+  "description": "A node js Rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "restful"
+  ],
+  "author": "sameer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
